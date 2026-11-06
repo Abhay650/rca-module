@@ -1,0 +1,23 @@
+From: Priya Nair (Production Supervisor, Block C)
+To: QA Deviations
+Date: 12 October 2026
+Subject: Deviation - Batch KT-24-0187 Amlodipine Besylate - Assay/Impurity OOS after crystallisation
+
+Product: Amlodipine Besylate API
+Batch No.: KT-24-0187
+Stage: Crystallisation (Reactor R-304) followed by centrifuge CF-12 and tray drying
+
+During in-process control after crystallisation on 11 Oct 2026 the HPLC result for Impurity B was 0.31% against a specification of NMT 0.15%. The batch was put on hold. Assay was 98.2% (spec 99.0-101.0%).
+
+Observations:
+- The cooling ramp on R-304 was recorded as 20 C to 5 C in 45 minutes; the approved BMR specifies 20 C to 5 C over 3 hours.
+- The jacket temperature controller TIC-304 was replaced by maintenance on 9 Oct 2026. The post-maintenance requalification record has not been attached to the batch file.
+- Operator on shift (B. Singh) joined the department 3 weeks ago; training on the revised cooling profile (SOP-CR-021 rev 04) is not yet documented.
+- Seed crystals lot SC-0912 were used; the CoA shows particle size within limits.
+- Ambient humidity in the block was normal. No alarms were recorded on the SCADA during the step.
+
+Immediate actions: batch KT-24-0187 placed on quality hold, reactor R-304 isolated, retain samples drawn and re-tested in duplicate (confirming the OOS). Neighbouring batch KT-24-0188 held pending review.
+
+Potential impact: possible rejection or reprocessing of 412 kg of API. No product has been dispatched. Risk to patient is considered low since the batch is on hold.
+
+Reported by Priya Nair on 12 Oct 2026. Classified as Major.
